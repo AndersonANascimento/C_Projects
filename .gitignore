@@ -1,0 +1,5 @@
+# Diretório de configuração do VSCode
+.vscode
+
+# Arquivos executáveis
+*.exe
